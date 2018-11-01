@@ -1,0 +1,5 @@
+var person = { 
+    name: "John1", 
+    age: 31, 
+    city: "New York" 
+    };
